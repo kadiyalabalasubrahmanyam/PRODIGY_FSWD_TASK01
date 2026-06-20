@@ -1,0 +1,8 @@
+{
+  "name": "Secure Authentication System",
+  "description": "A secure React-based authentication system with customizable login, registration, and user dashboard, utilizing robust security rules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
